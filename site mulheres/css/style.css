@@ -1,0 +1,39 @@
+body{
+    background-color:#CDC0B0 ;
+}
+
+#cabecalho{
+    padding: 0.8rem;
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    border-radius: 20px;
+}
+
+.imgdocomeco{
+    border-radius: 20px;
+}
+
+
+.container{
+    border: solid peru;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.imgdocenter{
+    border-radius: 40px;
+    width: 30%;
+    text-align: center;
+}
+
+.imgfim{
+    border-radius: 20px;
+}
+
+.nomefim{
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+    border-radius: 40px;
+}
+
+
